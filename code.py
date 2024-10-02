@@ -1,2 +1,3 @@
-def function(a,b):
-    return a+b
+def function(a,b,c):
+    return a-b*c
+function(2,3,4)
